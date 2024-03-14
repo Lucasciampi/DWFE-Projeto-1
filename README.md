@@ -1,3 +1,9 @@
+# Primeiro Projeto de Desenvolvimento Web Front End:
+Projeto: Fundamentos
+
+-> Aula 1: Introdução ao React e ao Vite. Início do desenvolvimento do projeto - criação dos componentes Título e Cards.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
